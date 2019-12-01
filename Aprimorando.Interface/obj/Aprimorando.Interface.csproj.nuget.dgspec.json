@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj": {}
+    "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj": {}
   },
   "projects": {
-    "E:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj": {
+    "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj",
+        "projectUniqueName": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj",
         "projectName": "Aprimorando.Interface",
-        "projectPath": "E:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj",
+        "projectPath": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj",
         "packagesPath": "C:\\Users\\monte\\.nuget\\packages\\",
-        "outputPath": "E:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\obj\\",
+        "outputPath": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\monte\\AppData\\Roaming\\NuGet\\NuGet.Config"

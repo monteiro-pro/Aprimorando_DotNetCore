@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Aprimorando.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Aprimorando.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Aprimorando.Interface.dll": {}
+        }
       }
     }
   },
@@ -172,10 +182,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Aprimorando.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Aprimorando.Interface/Aprimorando.Interface.csproj",
+      "msbuildProject": "../Aprimorando.Interface/Aprimorando.Interface.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Aprimorando.Interface >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -185,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Lib\\Aprimorando.Lib.csproj",
+      "projectUniqueName": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Lib\\Aprimorando.Lib.csproj",
       "projectName": "Aprimorando.Lib",
-      "projectPath": "E:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Lib\\Aprimorando.Lib.csproj",
+      "projectPath": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Lib\\Aprimorando.Lib.csproj",
       "packagesPath": "C:\\Users\\monte\\.nuget\\packages\\",
-      "outputPath": "E:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Lib\\obj\\",
+      "outputPath": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Lib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\monte\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -202,7 +218,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj": {
+              "projectPath": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
