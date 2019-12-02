@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Lib\\Aprimorando.Lib.csproj": {}
+    "C:\\Users\\j.monteiro.da.silva\\Documents\\Estudo\\Projetos\\DotNet Core\\Aprendendo\\Aprimorando_DotNetCore\\Aprimorando.Lib\\Aprimorando.Lib.csproj": {}
   },
   "projects": {
-    "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj": {
+    "C:\\Users\\j.monteiro.da.silva\\Documents\\Estudo\\Projetos\\DotNet Core\\Aprendendo\\Aprimorando_DotNetCore\\Aprimorando.Interface\\Aprimorando.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\j.monteiro.da.silva\\Documents\\Estudo\\Projetos\\DotNet Core\\Aprendendo\\Aprimorando_DotNetCore\\Aprimorando.Interface\\Aprimorando.Interface.csproj",
         "projectName": "Aprimorando.Interface",
-        "projectPath": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj",
-        "packagesPath": "C:\\Users\\monte\\.nuget\\packages\\",
-        "outputPath": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\obj\\",
+        "projectPath": "C:\\Users\\j.monteiro.da.silva\\Documents\\Estudo\\Projetos\\DotNet Core\\Aprendendo\\Aprimorando_DotNetCore\\Aprimorando.Interface\\Aprimorando.Interface.csproj",
+        "packagesPath": "C:\\Users\\j.monteiro.da.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\j.monteiro.da.silva\\Documents\\Estudo\\Projetos\\DotNet Core\\Aprendendo\\Aprimorando_DotNetCore\\Aprimorando.Interface\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\monte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\j.monteiro.da.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,29 +62,34 @@
         }
       }
     },
-    "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Lib\\Aprimorando.Lib.csproj": {
+    "C:\\Users\\j.monteiro.da.silva\\Documents\\Estudo\\Projetos\\DotNet Core\\Aprendendo\\Aprimorando_DotNetCore\\Aprimorando.Lib\\Aprimorando.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Lib\\Aprimorando.Lib.csproj",
+        "projectUniqueName": "C:\\Users\\j.monteiro.da.silva\\Documents\\Estudo\\Projetos\\DotNet Core\\Aprendendo\\Aprimorando_DotNetCore\\Aprimorando.Lib\\Aprimorando.Lib.csproj",
         "projectName": "Aprimorando.Lib",
-        "projectPath": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Lib\\Aprimorando.Lib.csproj",
-        "packagesPath": "C:\\Users\\monte\\.nuget\\packages\\",
-        "outputPath": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Lib\\obj\\",
+        "projectPath": "C:\\Users\\j.monteiro.da.silva\\Documents\\Estudo\\Projetos\\DotNet Core\\Aprendendo\\Aprimorando_DotNetCore\\Aprimorando.Lib\\Aprimorando.Lib.csproj",
+        "packagesPath": "C:\\Users\\j.monteiro.da.silva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\j.monteiro.da.silva\\Documents\\Estudo\\Projetos\\DotNet Core\\Aprendendo\\Aprimorando_DotNetCore\\Aprimorando.Lib\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\monte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\j.monteiro.da.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj": {
-                "projectPath": "e:\\Documentos\\Estudo\\DotNet Core\\Aprendendo\\Aprimorando.Interface\\Aprimorando.Interface.csproj"
+              "C:\\Users\\j.monteiro.da.silva\\Documents\\Estudo\\Projetos\\DotNet Core\\Aprendendo\\Aprimorando_DotNetCore\\Aprimorando.Interface\\Aprimorando.Interface.csproj": {
+                "projectPath": "C:\\Users\\j.monteiro.da.silva\\Documents\\Estudo\\Projetos\\DotNet Core\\Aprendendo\\Aprimorando_DotNetCore\\Aprimorando.Interface\\Aprimorando.Interface.csproj"
               }
             }
           }

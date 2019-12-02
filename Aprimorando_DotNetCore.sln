@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroProjeto", "Aprimorando_DotNetCore\PrimeiroProjeto.csproj", "{3CAB9B75-6CAA-4E61-B83E-A2FD5292918A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aprimorando_DotNetCore", "Aprimorando_DotNetCore\Aprimorando_DotNetCore.csproj", "{3CAB9B75-6CAA-4E61-B83E-A2FD5292918A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aprimorando.Lib", "Aprimorando.Lib\Aprimorando.Lib.csproj", "{DBA3508B-2DDF-422E-AFE0-59811E051DBD}"
 EndProject

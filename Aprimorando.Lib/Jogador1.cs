@@ -1,3 +1,5 @@
+using Aprimorando.Interface;
+
 namespace Aprimorando.Lib
 {
     public class Jogador1 : IJogador

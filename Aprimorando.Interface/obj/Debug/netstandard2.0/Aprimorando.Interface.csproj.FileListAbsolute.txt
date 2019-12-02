@@ -1,0 +1,8 @@
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\DotNet Core\Aprendendo\Aprimorando_DotNetCore\Aprimorando.Interface\bin\Debug\netstandard2.0\Aprimorando.Interface.deps.json
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\DotNet Core\Aprendendo\Aprimorando_DotNetCore\Aprimorando.Interface\bin\Debug\netstandard2.0\Aprimorando.Interface.dll
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\DotNet Core\Aprendendo\Aprimorando_DotNetCore\Aprimorando.Interface\bin\Debug\netstandard2.0\Aprimorando.Interface.pdb
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\DotNet Core\Aprendendo\Aprimorando_DotNetCore\Aprimorando.Interface\obj\Debug\netstandard2.0\Aprimorando.Interface.AssemblyInfoInputs.cache
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\DotNet Core\Aprendendo\Aprimorando_DotNetCore\Aprimorando.Interface\obj\Debug\netstandard2.0\Aprimorando.Interface.AssemblyInfo.cs
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\DotNet Core\Aprendendo\Aprimorando_DotNetCore\Aprimorando.Interface\obj\Debug\netstandard2.0\Aprimorando.Interface.dll
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\DotNet Core\Aprendendo\Aprimorando_DotNetCore\Aprimorando.Interface\obj\Debug\netstandard2.0\Aprimorando.Interface.pdb
+C:\Users\j.monteiro.da.silva\Documents\Estudo\Projetos\DotNet Core\Aprendendo\Aprimorando_DotNetCore\Aprimorando.Interface\obj\Debug\netstandard2.0\Aprimorando.Interface.csprojAssemblyReference.cache
